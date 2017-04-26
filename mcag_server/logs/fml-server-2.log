@@ -1,0 +1,118 @@
+[23:14:14] [main/INFO] [FML/]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
+[23:14:14] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_121
+[23:14:14] [main/INFO] [STDERR/]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
+[23:14:14] [main/WARN] [FML/]: The following coremods do not have a @MCVersion annotation. They may cause problems if this is not the correct version of Minecraft for them.
+[23:14:14] [main/WARN] [FML/]: Missing @MCVersion: com.spacechase0.minecraft.spacecore.asm.SpaceCorePlugin  
+[23:14:14] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:14:14] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[23:14:14] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:14:14] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:14:14] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:14:15] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:14:15] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:14:16] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:14:18] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[23:14:19] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[23:14:19] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[23:14:19] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[23:14:21] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[23:14:21] [Server thread/INFO] [FML/]: MinecraftForge v10.13.4.1614 Initialized
+[23:14:21] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[23:14:21] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[23:14:21] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[23:14:21] [Server thread/INFO] [FML/]: Searching D:\gm\mc\mcag_server\mods for mods
+[23:14:22] [Server thread/WARN] [SC0_SpaceCore/]: Mod SC0_SpaceCore is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.7.14
+[23:14:22] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 10 mods to load
+[23:14:22] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, kimagine, SC0_SpaceCore, exastrisrebirth, exnihilo, Mantle, TConstruct, TwilightForest] at CLIENT
+[23:14:22] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, kimagine, SC0_SpaceCore, exastrisrebirth, exnihilo, Mantle, TConstruct, TwilightForest] at SERVER
+[23:14:23] [Server thread/INFO] [SC0_SpaceCore/SC0_SpaceCore]: Adding artificial preInit to com/spacechase0/minecraft/spacecore/SpaceCore
+[23:14:23] [Server thread/INFO] [SC0_SpaceCore/SC0_SpaceCore]: Adding artificial postInit to com/spacechase0/minecraft/spacecore/SpaceCore
+[23:14:23] [Server thread/ERROR] [Mantle/Mantle]: [Environment Checks] Bukkit implementation detected. This may cause issues. Bukkit implementations include Craftbukkit and Cauldron(MCPC+).
+[23:14:23] [Server thread/INFO] [TConstruct/TConstruct]: Preparing to take over the world
+[23:14:23] [Server thread/ERROR] [FML/]: Fatal errors were detected during the transition from CONSTRUCTING to PREINITIALIZATION. Loading cannot continue
+[23:14:23] [Server thread/ERROR] [FML/]: 
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UC	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UC	FML{7.10.99.99} [Forge Mod Loader] (KCauldron-1.7.10-1614.201.jar) 
+	UC	Forge{10.13.4.1614} [Minecraft Forge] (KCauldron-1.7.10-1614.201.jar) 
+	UC	kimagine{0.2} [KImagine] (minecraft.jar) 
+	UC	SC0_SpaceCore{0.7.14} [SpaceCore] (1.7.10-SpaceCore-0.7.14.jar) 
+	UC	exnihilo{1.38-49} [Ex Nihilo] (Ex-Nihilo-1.38-49.jar) 
+	UC	Mantle{1.7.10-0.3.2.jenkins191} [Mantle] (Mantle-1.7.10-0.3.2b.jar) 
+	UE	TConstruct{1.7.10-1.8.8.build988} [Tinkers' Construct] (TConstruct-1.7.10-1.8.8.jar) 
+	UC	exastrisrebirth{MC1.7.10-1.01-45} [Ex Astris Rebirth] (Ex-Astris-Rebirth-MC1.7.10-1.01-45.jar) 
+	UC	TwilightForest{2.3.7} [The Twilight Forest] (twilightforest-1.7.10-2.3.7.jar) 
+[23:14:23] [Server thread/ERROR] [FML/]: The following problems were captured during this phase
+[23:14:23] [Server thread/ERROR] [FML/]: Caught exception from TConstruct
+java.lang.NoClassDefFoundError: tconstruct/library/tools/ToolCore
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_121]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_121]
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:42) ~[ProxyInjector.class:1.7.10-R0.1-SNAPSHOT]
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:512) ~[FMLModContainer.class:1.7.10-R0.1-SNAPSHOT]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_121]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[server-1.7.10.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[server-1.7.10.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[server-1.7.10.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[server-1.7.10.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[server-1.7.10.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:1.7.10-R0.1-SNAPSHOT]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:1.7.10-R0.1-SNAPSHOT]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_121]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_121]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_121]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[server-1.7.10.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[server-1.7.10.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[server-1.7.10.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[server-1.7.10.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[server-1.7.10.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:1.7.10-R0.1-SNAPSHOT]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513) [Loader.class:1.7.10-R0.1-SNAPSHOT]
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:1.7.10-R0.1-SNAPSHOT]
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:1.7.10-R0.1-SNAPSHOT]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:176) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:631) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: java.lang.ClassNotFoundException: tconstruct.library.tools.ToolCore
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	... 31 more
+Caused by: java.lang.NoClassDefFoundError: cofh/api/energy/IEnergyContainerItem
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_121]
+	at java.security.SecureClassLoader.defineClass(Unknown Source) ~[?:1.8.0_121]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	... 31 more
+Caused by: java.lang.ClassNotFoundException: cofh.api.energy.IEnergyContainerItem
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_121]
+	at java.security.SecureClassLoader.defineClass(Unknown Source) ~[?:1.8.0_121]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	... 31 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_121]
+	at java.security.SecureClassLoader.defineClass(Unknown Source) ~[?:1.8.0_121]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	... 31 more
+[23:14:23] [Server thread/WARN] [FML/]: Can't revert to frozen GameData state without freezing first.
+[23:14:23] [Server thread/INFO] [FML/]: Applying holder lookups
+[23:14:23] [Server thread/INFO] [FML/]: Holder lookups applied
+[23:14:23] [Server thread/INFO] [FML/]: The state engine was in incorrect state ERRORED and forced into state SERVER_STOPPED. Errors may have been discarded.
+[23:14:23] [Server thread/INFO] [FML/]: The state engine was in incorrect state ERRORED and forced into state AVAILABLE. Errors may have been discarded.

@@ -1,0 +1,17 @@
+#Sat Feb 04 20:15:46 PST 2017
+TexMinFilB=0
+shadowResMul=1.0
+tweakBlockDamage=false
+TexMagFilB=0
+handDepthMul=0.25
+oldLighting=false
+shaderPack=Ziipzaaps Shaders  V2 (Chocapic13 Shaders edit).zip
+TexMinFilS=0
+renderResMul=1.0
+TexMagFilS=0
+TexMinFilN=0
+shadowClipFrustrum=true
+TexMagFilN=0
+normalMapEnabled=true
+cloudShadow=true
+specularMapEnabled=true

@@ -1,0 +1,14 @@
+[10:59:19] [main/INFO] *** Hello Minecraft! Launcher 2.3.5.7 ***
+[10:59:20] [main/INFO] Initialized settings.
+[10:59:44] [AWT-EventQueue-0/INFO] Start generating launching command...
+[10:59:44] [Game Launcher/INFO] Logging in...
+[10:59:44] [Game Launcher/INFO] Detecting libraries...
+[10:59:44] [Game Launcher/INFO] Unpacking natives...
+[10:59:45] [Game Launcher/INFO] *** Make shell command ***
+[10:59:45] [Game Launcher/INFO] On making head command.
+[10:59:45] [Game Launcher/INFO] Java Version: 1.8.0_131
+[10:59:45] [Game Launcher/INFO] Java Platform: 64
+[10:59:45] [Game Launcher/INFO] System Platform: 64
+[10:59:45] [Game Launcher/INFO] System Physical Memory: 32670
+[10:59:46] [Game Launcher/INFO] On making launcher args.
+[10:59:46] [Game Launcher/INFO] Starting process

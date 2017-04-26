@@ -1,0 +1,52 @@
+{
+  "last": "Default",
+  "clientToken": "196521b1-0155-4148-b33e-a924c38006f1",
+  "enableShadow": false,
+  "decorated": false,
+  "enableAnimation": true,
+  "theme": 4,
+  "java": [
+    {
+      "ver": "1.8.0_71",
+      "platform": 2,
+      "location": "C:\\Program Files\\Java\\jre1.8.0_71\\bin"
+    },
+    {
+      "ver": "1.8.0_121",
+      "platform": 2,
+      "location": "C:\\Program Files\\Java\\jre1.8.0_121\\bin"
+    },
+    {
+      "ver": "1.8.0_131",
+      "platform": 2,
+      "location": "C:\\Program Files\\Java\\jre1.8.0_131\\bin"
+    }
+  ],
+  "logintype": 0,
+  "downloadtype": 0,
+  "configurations": {
+    "Default": {
+      "name": "Default",
+      "selectedMinecraftVersion": "1.7.10-Forge10.13.4.1614-1.7.10",
+      "minecraftArgs": "",
+      "gameDir": ".\\.minecraft",
+      "javaDir": "",
+      "precalledCommand": "",
+      "serverIp": "",
+      "java": "Default",
+      "fullscreen": false,
+      "debug": false,
+      "noJVMArgs": false,
+      "canceledWrapper": false,
+      "launcherVisibility": 0,
+      "gameDirType": 0
+    }
+  },
+  "auth": {
+    "yggdrasil": {},
+    "offline": {
+      "IAuthenticator_UserName": "Leon"
+    },
+    "skinme": {}
+  }
+}
